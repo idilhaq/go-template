@@ -7,4 +7,6 @@ func main(){
 /* TODO:
 - Create usecase
 - Find out the proper main.go
+- grpc
+- http
 */
